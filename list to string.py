@@ -13,3 +13,6 @@ print(type(string))
 string= input("Enter a string: ")
 txt=list(string)
 print(f'list to string: {txt}')
+
+
+print(type(txt))
