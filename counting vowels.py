@@ -10,6 +10,7 @@ for i in word:
 print(count)
 
 
+#count word in name
 word='mohanraj'
 cha='a'
 count=0
